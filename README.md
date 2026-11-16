@@ -1,4 +1,4 @@
-# Hi, I'm Ryan 👋
+# Ryan Nichols
 
 Business and Computer Science student at Trinity College Dublin, building software products and data tools.
 

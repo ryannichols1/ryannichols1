@@ -1,6 +1,6 @@
 # Ryan Nichols
 
-Business and Computer Science student at Trinity College Dublin, building software products and data tools.
+Computer Science and Business student at Trinity College Dublin, building software products and data tools.
 
 ## Projects
 

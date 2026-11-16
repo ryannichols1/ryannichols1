@@ -15,5 +15,5 @@ Computer Science and Business student at Trinity College Dublin, building softwa
 
 | Project | What it is |
 |---|---|
-| [**Flight Tracker**](https://github.com/ryannichols1/ProgrammingProject) | Interactive US flight-data dashboard in Processing. Six-person group project |
+| [**Flight Tracker**](https://github.com/ryannichols1/tcd-flight-tracker) | Interactive US flight-data dashboard in Processing. Six-person group project |
 | [**ARM assembly on STM32**](https://github.com/ryannichols1/computingAsignment4) | Bare-metal Cortex-M4 programs: GPIO, SysTick and interrupts |
